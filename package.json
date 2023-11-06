@@ -2,7 +2,7 @@
   "name": "artistry-react",
   "version": "0.6.6",
   "description": "A powerful component library for React",
-  "repository": "https://github.com/zill4/artistry-react.git",
+  "repository": "https://github.com/Cubex-LLC/artistry-react.git",
   "license": "MIT",
   "author": "Sean Johnson <sjohnson@sjohnsonaz.com>",
   "main": "dist/scripts/modules/ArtistryReact.js",
@@ -20,22 +20,22 @@
     "open": "opn src/tests/demo/html/index.html"
   },
   "dependencies": {
-    "@cascade/diff": "https://github.com/zill4/cascade-diff#main",
-    "@cascade/promise-util": "https://github.com/zill4/cascade-promise-util#main"
+    "@cascade/diff": "https://github.com/Cubex-LLC/cascade-diff#main",
+    "@cascade/promise-util": "https://github.com/Cubex-LLC/cascade-promise-util#main"
   },
   "peerDependencies": {
-    "artistry": "https://github.com/zill4/artistry#main",
+    "artistry": "https://github.com/Cubex-LLC/artistry#main",
     "react": "16.8.6",
     "react-dom": "16.8.0"
   },
   "devDependencies": {
-    "@artistry/icons": "https://github.com/zill4/artistry-icons#main",
+    "@artistry/icons": "https://github.com/Cubex-LLC/artistry-icons#main",
     "@fortawesome/free-solid-svg-icons": "^6.4.2",
     "@types/chai": "^4.3.6",
     "@types/mocha": "^10.0.1",
     "@types/react": "16.8.6",
     "@types/react-dom": "16.8.0",
-    "artistry": "https://github.com/zill4/artistry#main",
+    "artistry": "https://github.com/Cubex-LLC/artistry#main",
     "autoprefixer": "^10.4.16",
     "chai": "^4.3.8",
     "css-loader": "^6.8.1",
